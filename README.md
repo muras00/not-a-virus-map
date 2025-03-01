@@ -4,7 +4,7 @@ Group members:
 
 Harry Maynard (@4maynh59)
 
-Senju Murase (@jrykns)
+Senju Murase (@muras00)
 
 Dario Cruz (@dariocruz96)
 
@@ -16,7 +16,7 @@ Hamza Mohibe (@HamzaMohibe)
 
 GitHub name: not-a-virus-map
 
-GitHub repository: https://github.com/jrykns-org/not-a-virus-map
+GitHub repository: https://github.com/muras00/not-a-virus-map
 
 Server (demo) URL: https://com619-devops.uksouth.cloudapp.azure.com/home
 
